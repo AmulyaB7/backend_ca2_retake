@@ -1,0 +1,23 @@
+{
+  "name": "backend_ca2_retake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmulyaB7/backend_ca2_retake.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmulyaB7/backend_ca2_retake/issues"
+  },
+  "homepage": "https://github.com/AmulyaB7/backend_ca2_retake#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
